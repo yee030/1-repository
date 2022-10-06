@@ -7,3 +7,4 @@ if __name__ == '__main__’:
     print_KIT()
     print( print_hello(1,2) )
 print("냐옹")
+print("2022-10-06")
